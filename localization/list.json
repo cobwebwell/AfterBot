@@ -1,0 +1,7 @@
+{
+	"Türkçe" : {
+		"version" : "2.0.0",
+		"desc" : "Bot'un Türkçe dil tercümesi.",
+		"file" : "turkish.json"
+	}
+}
