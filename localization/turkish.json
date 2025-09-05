@@ -33,7 +33,7 @@
   "err_disc_auth_fail": "Kimlik doğrulaması başarısız! Discord bot tokeninizin geçerli olduğundan emin olunuz.",
   "err_disc_disconn": "Bir hata oluştu ve discord botunun bağlantısı kesildi! Hata detayları {log_file} dosyasına kayıt edildi.\nLütfen \"{repo_url}/issues\" adresinden bir hata bildirimi oluşturunuz ve log dosyasını da ekleyiniz.",
   "err_export_localization": "HATA: Varsayılan yerelleştirme dışa aktarılamadı!",
-  "info_disc_act_bot_ver": "Bot Versiyonu: {version}",
+  "info_disc_act_bot_ver": "Sunucuda {playercount} oyuncu var.",
   "info_bot_started": "Bot (**{version}**) aktif. :zombie:",
   "info_bot_new_version": "Bot'un yeni bir versiyonu (**{new_version}**) mevcut! Şu anki versiyon: **{current_version}**. Lütfen {repo_url} adresinden güncellemeyi gözden geçiriniz. Eğer bottan memnunsanız ve henüz bırakmadıysanız, lütfen repo'ya bir :star: bırakınız :relaxed:.",
   "info_bot_new_early_version": "Bot'un yeni bir **erken erişim** versiyonu (**{new_version}**) mevcut! Şu anki versiyon: **{current_version}**. Bu erken erişim versiyonu repo'nun **Releases** kısmından indirilebilir. Repo linki: {repo_url}. Bu yeni versiyon geniş çaplı bir testten geçmediği için henüz stabil olmayabilir (ki benim de bir sunucum olmadığı için test etme şansım yok bu yüzden her türlü yardıma minnettarım) ama yeni özelliklere erken erişim sağlar. Eğer bir problem oluşursa her zaman **Releases** kısmından önceki versiyona geçiş yapabilirsiniz. Eğer bir problem ile karşılaşırsanız lütfen **Issues** kısmından bildiriniz.",
