@@ -102,7 +102,7 @@
   "disc_cmd_stop_server_warn": "Sunucu zaten durduruldu.",
   "disc_cmd_restart_server_ok": "Sunucu yeniden başlatılıyor.",
   "disc_cmd_initiate_restart_warn_min": "Dakika 0 olamaz. `!restart_server` komutunu kullanınız.",
-  "disc_cmd_initiate_restart_info_server_msg": "Manuel olarak sunucunun yeniden başlatılması tetiklendi. Sunucu {minutes} dakika içinde yeniden başlatılacak.",
+  "disc_cmd_initiate_restart_info_server_msg": "Sunucu {minutes} dakika içinde yeniden başlatılacak, guvenli cikis saglayin.",
   "disc_cmd_initiate_restart_info_disc_msg": "Manuel olarak yeniden başlatma tetiklendi. Sunucu **{minutes} dakika** içinde yeniden başlatılacak.",
   "disc_cmd_abort_restart_ok_server": "Yaklaşan yeniden başlatma iptal edildi. Sıradaki yeniden başlatma {minutes} dakika sonra gerçekleşecek.",
   "disc_cmd_abort_restart_ok_disc": "Yaklaşan yeniden başlatma iptal edildi.",
